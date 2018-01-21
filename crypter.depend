@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1448644205 source:c:\users\maks\desktop\crypter\main.cpp
+	<iostream>
+
+1448645170 source:c:\users\sony\documents\aa coding projects\2015-6\lesson 9\crypter\main.cpp
+	<iostream>
+	<string>
+
